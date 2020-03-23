@@ -1,0 +1,11 @@
+.egg {
+	width: 243px;
+	height: 300px;
+	background-image: radial-gradient(
+		at 30% 30%,
+		#FFD8B0,
+		#F78A1D,
+		#F78A1D
+		); 
+	border-radius: 50% / 60% 60% 40% 40%;
+}
